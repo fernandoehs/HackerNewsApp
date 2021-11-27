@@ -26,7 +26,10 @@ Components from the Jetpack library:
   <img src="https://github.com/fernandoehs/HackerNewsApp/blob/main/app/src/main/1637955170477.jpg" width="200" />
   <img src="https://github.com/fernandoehs/HackerNewsApp/blob/main/app/src/main/1637955170454.jpg" width="200" />
   <img src="https://github.com/fernandoehs/HackerNewsApp/blob/main/app/src/main/1637955170430.jpg" width="200" />
+</p>
+<p float="left">
   <img src="https://github.com/fernandoehs/HackerNewsApp/blob/main/app/src/main/hn.gif" width="200" />
+ <img src="https://github.com/fernandoehs/HackerNewsApp/blob/main/app/src/main/hn1.gif" width="200" />
 </p>
 
 
